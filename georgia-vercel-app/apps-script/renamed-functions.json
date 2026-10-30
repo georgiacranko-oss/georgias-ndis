@@ -1,0 +1,21 @@
+{
+  "SUPPORT_APP_financeKeepAlive": "SUPPORT_APP_financeKeepAlive_",
+  "SUPPORT_APP_checkForInvoices": "SUPPORT_APP_checkForInvoices_",
+  "SUPPORT_APP_page": "SUPPORT_APP_page_",
+  "SUPPORT_APP_nextVisitor": "SUPPORT_APP_nextVisitor_",
+  "SUPPORT_APP_financeChallenge": "SUPPORT_APP_financeChallenge_",
+  "SUPPORT_APP_TEST_ALL_AUTOMATIONS": "SUPPORT_APP_TEST_ALL_AUTOMATIONS_",
+  "SUPPORT_APP_submitInit": "SUPPORT_APP_submitInit_",
+  "SUPPORT_APP_calendarSave": "SUPPORT_APP_calendarSave_",
+  "SUPPORT_APP_financeUnlock": "SUPPORT_APP_financeUnlock_",
+  "SUPPORT_APP_saveRawClaim": "SUPPORT_APP_saveRawClaim_",
+  "SUPPORT_APP_submit": "SUPPORT_APP_submit_",
+  "SUPPORT_APP_journal": "SUPPORT_APP_journal_",
+  "SUPPORT_APP_financeLock": "SUPPORT_APP_financeLock_",
+  "SUPPORT_APP_PROCESS_JOBS": "SUPPORT_APP_PROCESS_JOBS_",
+  "SUPPORT_APP_testHandoverToGeorgia": "SUPPORT_APP_testHandoverToGeorgia_",
+  "SUPPORT_APP_testAutomation": "SUPPORT_APP_testAutomation_",
+  "SUPPORT_APP_data": "SUPPORT_APP_data_",
+  "SUPPORT_APP_BACKGROUND_REPORT": "SUPPORT_APP_BACKGROUND_REPORT_",
+  "SUPPORT_APP_setInvoicePaid": "SUPPORT_APP_setInvoicePaid_"
+}
